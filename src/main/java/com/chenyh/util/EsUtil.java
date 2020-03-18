@@ -6,6 +6,7 @@ import org.elasticsearch.client.ElasticsearchClient;
  *
  * es util
  * common 2
+ * common2
  *
  * @program:
  * @description:
