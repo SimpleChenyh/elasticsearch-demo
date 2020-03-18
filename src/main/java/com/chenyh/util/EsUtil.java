@@ -3,6 +3,9 @@ package com.chenyh.util;
 import org.elasticsearch.client.ElasticsearchClient;
 
 /**
+ *
+ * es util
+ *
  * @program:
  * @description:
  * @author: HenryChen
